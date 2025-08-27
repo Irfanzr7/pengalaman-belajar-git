@@ -1,1 +1,8 @@
-# pengalaman-belajar-git
+# PENGALAMAN BELAJAR
+
+PENGALAMAN BELAJAR DI DICODING
+
+14 Juni 2021
+Belajar kelas memulai pemrograman dengan Java. (Progress 21%)
+* Belajar tentang apa itu java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
